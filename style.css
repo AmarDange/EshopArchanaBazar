@@ -189,3 +189,6 @@ header{
     padding: 10px;
     cursor: pointer;
 }
+.add-cart:hover{
+    background: hsl(249, 32%, 17%);
+}
