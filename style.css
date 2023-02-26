@@ -22,7 +22,7 @@ body{
     color: var(--text-color);
 }
 .container{
-    max-width: 1068px;
+    max-width: 1190px;
     margin: auto;
     width: 100%;
 }
@@ -57,7 +57,7 @@ header{
     position: fixed;
     top: 0;
     right: 0;
-    width: 255px;
+    width: 460px;
     min-height: 100vh;
     padding: 20px;
     background: var(--bg-color);
